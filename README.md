@@ -2,5 +2,5 @@
 EJEMPLO PARA CLASE DE VIERNES
 xxxxxxxxxxxxxxxxxxxx
 PARA VER COMO FUNCIONA GITHUB EN LA GESTIÓN DE PROYECTOS
-añado un nuevo texto
+**añado un nuevo texto**
 
